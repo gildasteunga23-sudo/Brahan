@@ -1,0 +1,16 @@
+h1{
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    font-weight: bold;
+   font-family: 'Courier New', Courier, monospace;
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
